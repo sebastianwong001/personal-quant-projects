@@ -1,6 +1,6 @@
 # Summary
 
-In this project I compare four methods of pricing the same call option. 
+In this project I compare four methods for pricing the same call option. 
 
 1) Black-Scholes Analytic
 2) Black-Scholes Numerical
